@@ -1,1 +1,7 @@
 win10toast
+pyautogui
+pywhatkit
+Adithya-STT
+requests
+playsound==1.2.2
+typing
