@@ -5,3 +5,4 @@ Adithya-STT
 requests
 playsound==1.2.2
 typing
+selenium

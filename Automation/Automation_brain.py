@@ -27,7 +27,7 @@ def Auto_main_brain(text):
         close()
     elif "play music" in text or "play music on youtube" in text:
         Braian_voice_tts.speak("which song do you want to play sir")
-        x = input()
+        x = input("which song do you want :")
         play_music_on_yt(x)
     elif "play some music" in text or "play music on spotify" in text:
         Braian_voice_tts.speak("which song do you want to play sir")

@@ -14,7 +14,7 @@ def alert(text):
         "jarvis",
         text,
         duration=1,
-        icon_path=r"C:\Users\Adhithya\Desktop\JARVIS\jarvis logo.ico",  # Path to the converted ICO file
+        icon_path= None,  # Path to the converted ICO file
         threaded=True
     )
   #  while toaster.notification_active():

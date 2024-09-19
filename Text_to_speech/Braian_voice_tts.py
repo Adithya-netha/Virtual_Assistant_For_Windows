@@ -26,5 +26,5 @@ def speak(message: str , voice: str = "Brian", folder: str = "", extension: str 
     except Exception as e:
       print(e)
 
-#speak("hello sir i'am jarvis,ready to assist you with variety of tasks 24 hours a day 7 days a weeek ")
+speak("hello sir i'am jarvis,ready to assist you with variety of tasks 24 hours a day 7 days a weeek ")
 #speak("waiting for your command")
